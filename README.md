@@ -2,6 +2,5 @@
 
 Technology enthusiast, Mad Scientist in the making
 
-You can contact me at:  
-> _Facebook:_ [Adrian Noces](https://www.facebook.com/Usernameadriannoces)  
+You can contact me at:  [![Facebook](https://www.facebook.com/Usernameadriannoces)  
 > _Gmail:_ noceskennethadrianoria@gmail.com  
