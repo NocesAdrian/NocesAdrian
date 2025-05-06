@@ -1,6 +1,10 @@
 <div align="center">
-Hi, I’m `@Kenneth Adrian Oria Noces`
-Technology enthusiast, Mad Scientist in the making
+<h2>
+  Hi, I’m `@Kenneth Adrian Oria Noces`
+</h2>
+<h3>
+  Technology enthusiast, Mad Scientist in the making
+</h3>
 </div>
 
 ####
