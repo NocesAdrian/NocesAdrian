@@ -1,13 +1,7 @@
 <div align="center">
 Hi, I’m `@Kenneth Adrian Oria Noces`
-</div>
-
-
-####
-
 Technology enthusiast, Mad Scientist in the making
-
-___
+</div>
 
 ####
 
